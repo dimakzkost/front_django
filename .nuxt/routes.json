@@ -1,0 +1,30 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/dimakz/NewStartApp/front_django/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_c941dad0"
+  },
+  {
+    "name": "pr",
+    "path": "/pr",
+    "component": "/home/dimakz/NewStartApp/front_django/pages/pr/index.vue",
+    "chunkName": "pages/pr/index",
+    "_name": "_35b9e226"
+  },
+  {
+    "name": "price",
+    "path": "/price",
+    "component": "/home/dimakz/NewStartApp/front_django/pages/price.vue",
+    "chunkName": "pages/price",
+    "_name": "_f9b63710"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/dimakz/NewStartApp/front_django/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5c9120fe"
+  }
+]

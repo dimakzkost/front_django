@@ -1,0 +1,52 @@
+{
+  "title": "front_django",
+  "meta": [
+    {
+      "hid": "charset",
+      "charset": "utf-8"
+    },
+    {
+      "hid": "viewport",
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "hid": "mobile-web-app-capable",
+      "name": "mobile-web-app-capable",
+      "content": "yes"
+    },
+    {
+      "hid": "apple-mobile-web-app-title",
+      "name": "apple-mobile-web-app-title",
+      "content": "front_django"
+    },
+    {
+      "hid": "og:type",
+      "name": "og:type",
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "hid": "og:title",
+      "name": "og:title",
+      "property": "og:title",
+      "content": "front_django"
+    },
+    {
+      "hid": "og:site_name",
+      "name": "og:site_name",
+      "property": "og:site_name",
+      "content": "front_django"
+    }
+  ],
+  "link": [
+    {
+      "rel": "manifest",
+      "href": "/_nuxt/manifest.20886648.json",
+      "hid": "manifest"
+    }
+  ],
+  "htmlAttrs": {
+    "lang": "en"
+  }
+}
